@@ -13,3 +13,6 @@ protocol Scelf {
     typealias scelf = Self
 }
 ```
+
+## License
+Scelf is released under the Unlicense license. [See LICENSE](https://github.com/andemengo/Scelf/blob/master/LICENSE) for details.
